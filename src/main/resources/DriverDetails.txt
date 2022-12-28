@@ -1,0 +1,1 @@
+[{"indiNumber":"123","name":"Lucas","surname":"Wong","email":"lucas_wong5591@hotmail.com","vehicleType":"Sedan","baseFarePrice":"200","baseFareDistance":"150"}]
